@@ -1,0 +1,167 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "city_name": "New York",
+      "description": "Cloudy",
+      "currentTemp": 21,
+      "maxTemp": 30,
+      "minTemp": 21,
+      "humidity": 90
+    },
+    {
+      "id": 2,
+      "city_name": "London",
+      "description": "Light Rain Showers",
+      "currentTemp": 21,
+      "maxTemp": 21,
+      "minTemp": 16,
+      "humidity": 73
+    },
+    {
+      "id": 3,
+      "city_name": "Berlin",
+      "description": "Partly Cloudy",
+      "currentTemp": 30,
+      "maxTemp": 31,
+      "minTemp": 18,
+      "humidity": 42
+    },
+    {
+      "id": 4,
+      "city_name": "Budapest",
+      "description": "Sunny",
+      "currentTemp": 31,
+      "maxTemp": 33,
+      "minTemp": 19,
+      "humidity": 40
+    },
+    {
+      "id": 5,
+      "city_name": "Paris",
+      "description": "Rain",
+      "currentTemp": 72,
+      "maxTemp": 23,
+      "minTemp": 17,
+      "humidity": 22
+    },
+    {
+      "id": 6,
+      "city_name": "Stockholm",
+      "description": "Light Rain Showers",
+      "currentTemp": 21,
+      "maxTemp": 21,
+      "minTemp": 16,
+      "humidity": 73
+    },
+    {
+      "id": 7,
+      "city_name": "Amsterdam",
+      "description": "Partly Cloudy",
+      "currentTemp": 30,
+      "maxTemp": 31,
+      "minTemp": 18,
+      "humidity": 42
+    },
+    {
+      "id": 8,
+      "city_name": "Rome",
+      "description": "Cloudy",
+      "currentTemp": 21,
+      "maxTemp": 30,
+      "minTemp": 21,
+      "humidity": 90
+    }
+  ],
+
+  "weeklystatus": [
+    {
+      "id": 1,
+      "city_name": "New York",
+      "day1": "33-23",
+      "day2": "34-32",
+      "day3": "24-21",
+      "day4": "28-21",
+      "day5": "28-20",
+      "day6": "30-18",
+      "day7": "30-21"
+    },
+    {
+      "id": 2,
+      "city_name": "London",
+      "day1": "26-17",
+      "day2": "20-14",
+      "day3": "21-13",
+      "day4": "21-14",
+      "day5": "22-14",
+      "day6": "21-13",
+      "day7": "23-12"
+    },
+    {
+      "id": 3,
+      "city_name": "Berlin",
+      "day1": "31-18",
+      "day2": "28-18",
+      "day3": "26-16",
+      "day4": "28-16",
+      "day5": "26-16",
+      "day6": "24-14",
+      "day7": "21-14"
+    },
+    {
+      "id": 4,
+      "city_name": "Budapest",
+      "day1": "33-19",
+      "day2": "34-21",
+      "day3": "35-20",
+      "day4": "36-22",
+      "day5": "35-21",
+      "day6": "32-18",
+      "day7": "30-18"
+    },
+    {
+      "id": 5,
+      "city_name": "Paris",
+      "day1": "23-17",
+      "day2": "24-17",
+      "day3": "23-16",
+      "day4": "25-19",
+      "day5": "24-14",
+      "day6": "22-15",
+      "day7": "26-18"
+    },
+    {
+      "id": 6,
+      "city_name": "Stockholm",
+      "day1": "26-17",
+      "day2": "20-14",
+      "day3": "21-13",
+      "day4": "21-14",
+      "day5": "22-14",
+      "day6": "21-13",
+      "day7": "23-12"
+    },
+    {
+      "id": 7,
+      "city_name": "Amsterdam",
+      "day1": "31-18",
+      "day2": "28-18",
+      "day3": "26-16",
+      "day4": "28-16",
+      "day5": "26-16",
+      "day6": "24-14",
+      "day7": "21-14"
+    },
+    {
+      "id": 8,
+      "city_name": "Rome",
+      "day1": "33-23",
+      "day2": "34-32",
+      "day3": "24-21",
+      "day4": "28-21",
+      "day5": "28-20",
+      "day6": "30-18",
+      "day7": "30-21"
+    }
+  ]
+}
